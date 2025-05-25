@@ -1,0 +1,40 @@
+/* Base font */
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h1,
+h2 {
+  font-weight: 600;
+  margin-top: 50px;
+}
+
+section {
+  padding-top: 60px;
+  margin-bottom: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+#about ul li {
+  margin-bottom: 10px;
+}
+
+#skills h6 {
+  font-weight: 600;
+  margin-top: 10px;
+}
+#skills .card-body {
+  padding: 20px;
+}
+
+
+body > header,
+section {
+  padding-top: 80px;
+}
